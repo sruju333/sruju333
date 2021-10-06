@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sruju333
+- My portfolio: portfolio-sruju333.vercel.app
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...C programming + JAVA + python
-- 💞️ I’m looking to collaborate on ...any ideation challenges/online coding challenges
 - 📫 How to reach me ...sruju333@gmail.com
 
 <!---

@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sruju333
-- :coffee: My blog ... https://portfolio-sruju333.vercel.app
 - 👀 I’m interested in ... Coding and Computer Science
 - 📫 How to reach me ... sruju333@gmail.com
 

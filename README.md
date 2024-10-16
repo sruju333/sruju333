@@ -3,8 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00C3FF&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Lifelong+Learner)
 
 ### About Me:
-- 🔭 I’m currently studying
-- 🌱 I’m learning **Software Engineering & Data Science**
+- 🔭 I’m currently **Studying as a Computer Science Major at BU**
+- 🌱 I’m learning **Computer Science, Software Engineering & Data Science**
 - 💬 Ask me about **Java/C++/Python**
 - 📫 How to reach me: **srujana.nn2000@gmail.com OR sruju333@gmail.com OR www.linkedin.com/in/srujana-n-62aa13299**
 - ⚡ Fun fact: I love **Animal Crossing: New Horizons**

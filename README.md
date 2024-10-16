@@ -1,6 +1,28 @@
-- 👋 Hi, I’m @sruju333
+## Hi there, I'm Srujana N 👋
 
-<!---
-sruju333/sruju333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00C3FF&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Lifelong+Learner)
+
+### About Me:
+- 🔭 I’m currently working on **[Project Name/Tech Stack]**
+- 🌱 I’m learning **Software Engineering & Data Science**
+- 💬 Ask me about **Java/C++/Python**
+- 📫 How to reach me: **srujana.nn2000@gmail.com OR sruju333@gmail.com OR www.linkedin.com/in/srujana-n-62aa13299**
+- ⚡ Fun fact: I love **Animal Crossing: New Horizons**
+
+---
+
+### GitHub Stats:
+![Sruju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sruju333&show_icons=true&theme=radical)
+
+### GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=sruju333&theme=dracula)](https://github.com/sruju333)
+
+### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sruju333&layout=compact&theme=radical)
+
+### Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sruju333&theme=radical)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=sruju333&style=flat-square&color=blue)

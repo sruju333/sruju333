@@ -1,6 +1,8 @@
 ## Hi there, I'm Srujana N 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00C3FF&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Lifelong+Learner)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00C3FF&width=435&lines=Software+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG"/>
+</p>
 
 ### About Me:
 - 🔭 I’m currently **Studying as a Computer Science Major at BU**

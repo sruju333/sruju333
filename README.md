@@ -24,7 +24,3 @@
 
 ### Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sruju333&theme=radical)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=sruju333&style=flat-square&color=blue)

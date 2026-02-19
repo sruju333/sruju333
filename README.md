@@ -9,4 +9,5 @@
 - 🌱 I’m learning **Computer Science, Software Engineering & Data Science**
 - 💬 Ask me about **Java/C++/Python**
 - 📫 How to reach me: **srujana.nn2000@gmail.com OR sruju333@gmail.com OR www.linkedin.com/in/srujana-n-62aa13299**
-- ⚡ Fun fact: I love **Animal Crossing: New Horizons**
+- ⚡️ Website: Check out my portfolio / website -> https://srujana-web.vercel.app
+- 🧸 Fun fact: I love **Animal Crossing: New Horizons**
